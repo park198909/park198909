@@ -1,4 +1,4 @@
-# 📫technical stack
+# 🔭technical stack
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"/></a>
@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 😄status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park198909&amp;show_icons=true&amp;theme=default)
